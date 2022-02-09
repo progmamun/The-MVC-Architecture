@@ -7,3 +7,7 @@
 ### we can use a well-established architecture pattern like MVC, MVP, Flux, ext.
 
 **The Perfect Architecture:** Structure, Maintainability, Expandability
+
+# Components of any Architecture
+
+![components-of-architecture](https://user-images.githubusercontent.com/67066348/153169015-6058b643-1b87-4d46-b2ef-74d75cd19211.png)
